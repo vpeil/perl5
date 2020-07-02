@@ -5,8 +5,7 @@ All rights reserved.
 
 
 
-ABOUT PERL
-==========
+# ABOUT PERL
 
 Perl is a general-purpose programming language originally developed for
 text manipulation and now used for a wide range of tasks including
@@ -29,8 +28,7 @@ There are also many Perl books available, covering a wide variety of topics,
 from various publishers.  See pod/perlbook.pod for more information.
 
 
-INSTALLATION
-============
+# INSTALLATION
 
 If you're using a relatively modern operating system and want to
 install this version of Perl locally, run the following commands:
@@ -54,8 +52,7 @@ through the 'perldoc' tool.  To get started, run this command:
   perldoc perl
 
 
-IF YOU RUN INTO TROUBLE
-=======================
+# IF YOU RUN INTO TROUBLE
 
 Perl is a large and complex system that's used for everything from
 knitting to rocket science.  If you run into trouble, it's quite
@@ -80,8 +77,7 @@ notion of Authorship needs some revision.  But you can use perl anyway. :-)
 							The author.
 
 
-LICENSING
-=========
+# LICENSING
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of either:
